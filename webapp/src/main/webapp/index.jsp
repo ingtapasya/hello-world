@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> First Deployment on Tomcat VM </h2>
+<h1> Hello, Welcome to the Complete DevOps Project !!   </h1>
+<h4> First Deployment on Tomcat VM </h4>
 <h2> Glad to see you here!</h2>
